@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Say Hello (My Plugin)",
+        "command": "say_hello"
+    }
+]
